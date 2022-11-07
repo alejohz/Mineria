@@ -1,0 +1,6 @@
+pandas
+plotly
+dask
+dask_ml
+fastparquet
+spacy
