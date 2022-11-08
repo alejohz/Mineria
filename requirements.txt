@@ -4,3 +4,5 @@ dask
 dask_ml
 fastparquet
 spacy
+pyspark
+python-dotenv
