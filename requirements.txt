@@ -5,3 +5,4 @@ dask-ml
 fastparquet
 pyspark
 python-dotenv
+scikit-learn==1.0.1
