@@ -1,8 +1,7 @@
 pandas
 plotly
 dask
-dask_ml
+dask-ml
 fastparquet
-spacy
 pyspark
 python-dotenv
