@@ -1,8 +1,11 @@
 pandas
 plotly
 dask
-dask-ml
+git+https://github.com/alejohz/dask-ml@tfidf
 fastparquet
 pyspark
 python-dotenv
-scikit-learn==1.0.1
+s3fs
+pyarrow
+sparse
+# scikit-learn==1.0.1
